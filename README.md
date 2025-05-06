@@ -1,4 +1,4 @@
-# Projet 1 — Courbes de Bézier
+# Courbes de Bézier
 
 ## Auteurs
 - **LE BOUEDEC Raphaël**
